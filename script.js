@@ -34,4 +34,5 @@ function copiar() {                              //essa função irá inverter a
     document.execCommand('copy');
     alert("Texto copiado.");
 
-  }
+  }  
+
